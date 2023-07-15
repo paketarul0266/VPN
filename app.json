@@ -1,2 +1,4 @@
 {
   "name": "Aditya's VPN Rapid deployment",
+"description": "Deploy Shadowsocks to your Server",
+  "env": {
