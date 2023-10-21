@@ -3,3 +3,4 @@
 "description": "Deploy Shadowsocks to your Server",
   "env": {
      "Password": {
+ "description": "The password of shadowsocks",
