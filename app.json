@@ -4,3 +4,4 @@
   
 "env": {
      "Password": {
+  "description": "The password of shadowsocks",
